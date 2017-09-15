@@ -23,3 +23,5 @@ Open `PythonModuleDebug` in VS Code. Set up `Breakpoint` and press `F5`.
 ## Known Bug
 
 The process would add one by one everytime restarting the debugger.
+
+See in: https://github.com/DonJayamanne/pythonVSCode/issues/1214
