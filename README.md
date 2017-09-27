@@ -24,4 +24,4 @@ Open `PythonModuleDebug` in VS Code. Set up `Breakpoint` and press `F5`.
 
 The process would add one by one everytime restarting the debugger.
 
-See in: https://github.com/DonJayamanne/pythonVSCode/issues/1214
+See in: [Issue](https://github.com/DonJayamanne/pythonVSCode/issues/1214) in python VSCode and [Issue](https://github.com/Microsoft/PTVS/issues/3073) in PTVS.
